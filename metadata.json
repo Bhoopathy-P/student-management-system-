@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "An enterprise-grade Student Management System featuring robust dashboards for Admins, Teachers, and Students. Supports course management, grading, attendance tracking, and dynamic PDF/Zip export of Spring Boot + React source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
